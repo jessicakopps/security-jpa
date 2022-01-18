@@ -3,7 +3,7 @@
 Projeto desenvolvido na aula da professora Marianne Salomão, no curso da Gama Academy em parceria com o Banco Pan. 
 <br>
 
-## Tecnologias e recursos utilizados
+## Tecnologias utilizadas
 
 - Spring Boot (Maven e JDK 11)
 - Banco de Dados Relacional MySQL
