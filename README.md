@@ -9,7 +9,7 @@ Projeto desenvolvido na aula da professora Marianne Salomão, no curso da Gama A
 - Banco de Dados Relacional MySQL
 - Thymeleaf
 
-## Utilizando a aplicação
+### Utilizando a aplicação
 
 - Requisitos:
   - Maven
